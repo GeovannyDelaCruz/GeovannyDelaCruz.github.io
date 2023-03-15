@@ -1,0 +1,41 @@
+#logo1{
+    display: inline-block;
+    width: 20%;
+    float: left;
+}
+#logo2{
+    display: inline-block;
+    width: 10%;
+    height: 10%;
+    float: right;
+}
+#titulotexto{
+ display: inline-block;
+ width: 50%;
+text-align: center;
+}
+#barranav{
+    clear: both;
+}
+.menu{
+    display: inline-block;
+    width: 15.8%;
+    background-color: lightgreen;
+    border: solid;
+    text-align: center;
+}
+#marco{
+    width: 99%;
+    height: 500px;
+    padding: 8px;
+}
+#pata{
+    border: double;
+    background-color: lightgreen;
+    text-align: center;
+    font-size: 20px;
+    height: 90px;
+}
+.link{
+    color: azure;
+}

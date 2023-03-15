@@ -1,0 +1,32 @@
+#jaguar{
+    text-align: center;
+    font-family: Vogue;
+}
+#rawr{
+    padding-left: 410px;
+}
+#h2{
+    padding-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
+#bed{
+    padding-left: 110px;
+}
+.titu{
+    font-family: Microsoft Yahei;
+    color: darkslateblue;
+}
+.sleep{
+    width: 48%;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.paz{
+    text-align: justify;
+    font-family: cambria;
+}
+#zz{
+    padding-left: 9px;
+}

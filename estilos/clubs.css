@@ -1,0 +1,30 @@
+#h2{
+    font-size: 45px;
+    font-family: Microsoft Yahei black;
+    text-align: center;
+}
+#intro{
+    padding-left: 40px;
+    font-size: 17px;
+    font-family: Book Antiqua;
+}
+.cafe{
+    width: 30%;
+    display: inline-block;
+    margin-left: px;
+    margin-right: 10px;
+}
+h3{
+    font-family: Segoe UI Black;
+    font-size: 20px;
+    text-align: center;
+}
+.hora{
+    font-size: 17px;
+    font-family: Book Antiqua;
+    text-align: justify;
+}
+.cama{
+    width: 26%;
+    display: inline-block;
+}
